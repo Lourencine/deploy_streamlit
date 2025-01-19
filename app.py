@@ -11,6 +11,7 @@ st.write(f'O ano selecionado foi: {slider}')
 st.select_slider("Selecione o ano", options=[1995, 2015, 2023, 2024, 2025])
 
 # git add . (sempre que for adicionar)
-#git commit -m
+#git commit -m (Nome do Comite)
+#git push (Publicar)
 
 #$ pip freeze > requiriments.txt: Qual são as bibliotecas instaladaas
